@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: bootcamp_SantanderDIO-
+  annotations:
+    github.com/project-slug: bpontes93/bootcamp_SantanderDIO-
+spec:
+  type: other
+  lifecycle: unknown
+  owner: guestss
